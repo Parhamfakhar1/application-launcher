@@ -24,7 +24,7 @@ A sleek, terminal-based application launcher for Windows that provides quick acc
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/application-launcher.git
+    git clone [https://github.com/your-username/](https://github.com/Parhamfakhar1/application-launcher.git
     cd application-launcher
     ```
 
